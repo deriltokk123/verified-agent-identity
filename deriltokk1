@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: deriltokk1
 
 on:
   workflow_dispatch:
